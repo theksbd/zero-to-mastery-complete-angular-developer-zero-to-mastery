@@ -1,3 +1,3 @@
-# Spring Boot 3, Spring 6 & Hibernate for Beginners - Chad Darby
+# Complete Angular Developer in 2023: Zero to Mastery - Zero To Mastery
 
-All the code files I wrote while learning Spring Boot 3, Spring 6 & Hibernate for Beginners course by Chad Darby
+All code files I have written while learning Complete Angular Developer in 2023: Zero to Mastery by Zero To Mastery
