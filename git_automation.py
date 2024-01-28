@@ -13,8 +13,11 @@ subprocess.run(["git", "status"])
 # Run git add . 
 subprocess.run(["git", "add", "."])
 
-# Run git commit -m "update"
-subprocess.run(["git", "commit", "-m", "update"])
+# Get user input for the commit message
+commit_message = input("Enter your commit message: ")
+
+# Run git commit with the custom message
+subprocess.run(["git", "commit", "-m", commit_message])
 
 # Run git push
 subprocess.run(["git", "push"])
